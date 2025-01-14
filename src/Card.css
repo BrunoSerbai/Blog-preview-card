@@ -7,11 +7,11 @@
     border-style:solid;
     border-width: 1px;
     background-color: hsl(0, 0%, 100%);
-    max-width: 300px;
+    max-width: 270px;
     border-radius:14px;
     box-shadow:  7px 7px;
     margin-bottom: 100px;
-    padding:21px;
+    padding:20px;
 }
 .cardImg{
     width: 100%;
@@ -31,8 +31,12 @@ h2{
 }
 .description{
     color:hsl(0, 0%, 42%);
-    margin:20px 0 15px 0; 
+    margin:20px 0 20px 0; 
+}
+.profile{
+    font-size:16px;
+    font-weight:800;
 }
 .profile img{
-    height:30px;
+    height:40px;
 }
