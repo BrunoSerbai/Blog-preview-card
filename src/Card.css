@@ -1,5 +1,22 @@
 .card{
+    font-size: 16px;
+    font-family: "Figtree", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+    display:flexbox;
     border-color: black;
+    border-style:solid;
     border-width: 1px;
-    max-width: 300px;
+    background-color: hsl(0, 0%, 100%);
+    max-width: 350px;
+    border-radius:14px;
+}
+.cardImg{
+    max-width: 80%;
+    border-radius:12px
+}
+.tag{
+    background-color: hsl(47, 88%, 63%);
+    width:fit-content;
 }

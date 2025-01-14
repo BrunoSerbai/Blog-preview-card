@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div className="card">
-        <img src={image} />
+        <img src={image} className="cardImg"/>
         <div className="tag">Learning</div>
         <div className="date">Published 21 Dec 2023</div>
         <h3>HTML & CSS foundations</h3>
